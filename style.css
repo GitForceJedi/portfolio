@@ -5,7 +5,7 @@ body {
 /* Navigation Bar */
 
 #home {
-  background-color:  #7600bc;
+  background-color: #00bc67;
   padding-bottom: 1cm;
   margin-left:-1cm;
   margin-right:-1cm;
@@ -64,7 +64,7 @@ h2 {
   font-size: 50px;
   text-align: center;
   float: left;
-  color: #7600bc;
+  color: #00bc67;
   margin: 30px;
   margin-left: 60px;
   margin-top: 40px;
@@ -98,7 +98,7 @@ h2 {
 #about-me h1 {
   font-size: 65px;
   margin-top: 90px;
-  color: #7600bc;
+  color: #00bc67;
 }
 
 #about-me p {
@@ -304,8 +304,8 @@ fieldset {
 
 button {
   background-color: #fff;
-  border: 1px solid #7600bc;
-  color: #7600bc;
+  border: 1px solid #00bc67;
+  color: #00bc67;
   display: block;
   border-radius: 6px;
   text-align: center;
@@ -316,8 +316,8 @@ button {
 }
 
 button:hover {
-  background-color: #7600bc;
-  border: 1px solid #7600bc;
+  background-color: #00bc67;
+  border: 1px solid #00bc67;
   color: #fff;
   display: block;
   border-radius: 6px;
